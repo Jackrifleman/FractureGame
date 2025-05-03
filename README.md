@@ -1,3 +1,3 @@
-# FractureGame
-Prototype GML CRPG; Releases Channel
-https://github.com/Jackrifleman/Fracture/releases
+# Fracture
+Prototype GML CRPG; Releases Channel  
+https://github.com/Jackrifleman/FractureGame/releases
